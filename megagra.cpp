@@ -1,12 +1,3 @@
-Megagra.cpp
-W zeszłym roku
-18 lip 2018
-
-Przenosisz 1 element do
-Folder Dysku Google
-inne
-C++
-Megagra.cpp
 #include <iostream>
 #include <cmath>
 #include <windows.h>
